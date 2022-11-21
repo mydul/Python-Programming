@@ -47,3 +47,16 @@ def greet(lang):
         return 'Bonjour'
     else:
         return 'Hello'
+
+
+""" How to iinstall NumPy
+Step 1. Find the python file path.
+Step 2: CMD > Command Prompt
+Step 3: cd [python file path] like my case cd C:\Program Files\Python310
+Step 4: Then those-
+python -m pip install -U pip
+python -m pip install numpy
+
+py -m pip install --upgrade pip
+py -m pip --version
+"""
