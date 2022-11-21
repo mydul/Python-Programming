@@ -44,3 +44,16 @@ print(cost_for_living.loc[['Flixbus', 'Blanket']])
 # Print out observation for Chicken Burger
 print(cost_for_living.iloc[2])
 
+
+
+""" How to iinstall pandas
+Step 1. Find the python file path.
+Step 2: CMD > Command Prompt
+Step 3: cd [python file path] like my case cd C:\Program Files\Python310
+Step 4: Then those-
+python -m pip install -U pip
+python -m pip install pandas
+
+py -m pip install --upgrade pip
+py -m pip --version
+"""
