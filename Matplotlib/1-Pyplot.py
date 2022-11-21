@@ -9,3 +9,15 @@ plt.xlabel("Voltage")
 plt.ylabel("Current")
 plt.show()
 
+
+
+""" How to iinstall matplotlib
+Step 1. Find the python file path.
+Step 2: CMD > Command Prompt
+Step 3: cd [python file path] like my case cd C:\Program Files\Python310
+Step 4: Then those-
+python -m pip install -U pip
+python -m pip install matplotlib
+
+py -m pip install --upgrade pip
+py -m pip --version
