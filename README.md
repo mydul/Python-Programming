@@ -13,7 +13,7 @@ Mainly, the Project title is **"Scientific programming with Python"**.
 To know the core concepts of Python from both a data science and industrial programming perspective. We will learn concepts of Python, machine learning, and computer networks through hands-on programming exercises using scientific datasets from synchrotrons and FEL radiation. To acquire the competence to analyze complex data and large data sets from experiments in the field of X-ray and nanotechnology research. To know the concepts of FAIR data and data management and know how this is dealt with in the DAPHNE4NFDI project.
 
 
-## Content
+### Content
 
 - Introduction to Python: variables, data types, loops, arrays, functions, Classes and Objects, Inheritance, File Manipulation, NumPy, Pandas and Matplotlib.
 
