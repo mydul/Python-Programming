@@ -1,18 +1,14 @@
 
 # Python-Programming
 
-A brief description of this repository containing all test project files, including the revision history of my own Python Knoledge.
+A brief description of this repository containing all test project files, including the revision history of my own Python knowledge. The purpose of this project is own practice. The main focus is practicing python with a project by sort of real-life examples, and learning or exercising Python in a better way.
 
 
-## Project Goal
-
-The purpose of this project is own practice. The main focus is practicing python with a project by sort of real-life examples, And learning or exercising Python in a better way.
-
-### Project Title
+## Project Title
 
 Mainly, the Project title is **"Scientific programming with Python"**.
 
-### Project Goals
+## Project Goals
 
 To know the core concepts of Python from both a data science and industrial programming perspective. We will learn concepts of Python, machine learning, and computer networks through hands-on programming exercises using scientific datasets from synchrotrons and FEL radiation. To acquire the competence to analyze complex data and large data sets from experiments in the field of X-ray and nanotechnology research. To know the concepts of FAIR data and data management and know how this is dealt with in the DAPHNE4NFDI project.
 
