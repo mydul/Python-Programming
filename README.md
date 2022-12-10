@@ -1,5 +1,5 @@
 
-# Python-Test-Repo
+# Python-Programming
 
 A brief description of a new repository containing all test project files, including the revision history of a Python Course.
 
@@ -50,9 +50,10 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 
 ## Acknowledgements
 
-- [x]  [Mr. Amir Tosson](https://github.com/amirtosson)
-- [x]  [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [x]  [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [x]  [Learnpython Dot Org](https://www.learnpython.org/)
+- [x]  [Python in simple language](https://python.maateen.me/)
+- [x]  [Cheat Sheets Dot Org](https://www.cheat-sheets.org/#Python)
+- [x]  [Matplotlib Dot Org](https://matplotlib.org/stable/tutorials/introductory/index.html)
 
 
 ## Authors
