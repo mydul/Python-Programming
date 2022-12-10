@@ -50,10 +50,10 @@ Distributed for all student under the [personal](https://github.com/mydul) licen
 
 ## Acknowledgements
 
-- [x]  [Learnpython Dot Org](https://www.learnpython.org/)
+- [x]  [Learnpython.org](https://www.learnpython.org/)
 - [x]  [Python in simple language](https://python.maateen.me/)
-- [x]  [Cheat Sheets Dot Org](https://www.cheat-sheets.org/#Python)
-- [x]  [Matplotlib Dot Org](https://matplotlib.org/stable/tutorials/introductory/index.html)
+- [x]  [Cheat Sheets.org](https://www.cheat-sheets.org/#Python)
+- [x]  [Matplotlib.org](https://matplotlib.org/stable/tutorials/introductory/index.html)
 
 
 ## Authors
