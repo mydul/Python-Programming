@@ -1,13 +1,16 @@
 
-# import module
+# * import module
 import calendar
-   
-# Display the calendar for 1 month
+
+# todo: Display the calendar for 1 month
+
 year = 2023
 month = 1
-print(calendar.month(year, month)) # calendar() function to print calendar
+print(calendar.month(year, month))  # ! calendar() function to print calendar
 
-# using calendar function to print calendar of year
+# todo: Calendar function to print calendar of a whole year
 # print ("The calendar of year 2023 is :")
-# print (calendar.calendar(2023, 2, 1, 6)) #2,1,6 spacing
+# print (calendar.calendar(2023, 2, 1, 6)) # ! 2,1,6 spacing
 
+# ? To moving the line up / down: alt + upperarrow / lowerarrow
+# ? To cope & move a line: alt + shift + up / down:
