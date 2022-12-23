@@ -6,12 +6,14 @@ skills = ["Python", "JavaScript", "C++", "HTML/CSS"]
 education = "Bachelor's degree in Computer Science"
 experience = "5 years of software development experience"
 
+
 def print_biodata():
-  print("Name:", name)
-  print("Age:", age)
-  print("Skills:", ", ".join(skills))
-  print("Education:", education)
-  print("Experience:", experience)
+    print("Name:", name)
+    print("Age:", age)
+    print("Skills:", ", ".join(skills))
+    print("Education:", education)
+    print("Experience:", experience)
+
 
 print_biodata()
 
@@ -29,6 +31,7 @@ education = "Bachelor's degree in Computer Science"
 skills = ["Python", "Java", "C++", "HTML/CSS", "JavaScript"]
 experience = ["Software Developer at XYZ Company", "Intern at ABC Company"]
 
+
 def print_biodata(name, age, education, skills, experience):
     print(f"Name: {name}")
     print(f"Age: {age}")
@@ -39,6 +42,7 @@ def print_biodata(name, age, education, skills, experience):
     print("Experience:")
     for exp in experience:
         print(f"- {exp}")
+
 
 print_biodata(name, age, education, skills, experience)
 
@@ -57,15 +61,18 @@ Experience:
 - Intern at ABC Company
 """
 
-class Programmer:
-  def __init__(self, name, age, language):
-    self.name = name
-    self.age = age
-    self.language = language
 
-  def bio(self):
-    print(f"Hi, my name is {self.name} and I am a programmer.")
-    print(f"I am {self.age} years old and I am proficient in {self.language}.")
+class Programmer:
+    def __init__(self, name, age, language):
+        self.name = name
+        self.age = age
+        self.language = language
+
+    def bio(self):
+        print(f"Hi, my name is {self.name} and I am a programmer.")
+        print(
+            f"I am {self.age} years old and I am proficient in {self.language}.")
+
 
 programmer = Programmer("John Doe", 30, "Python")
 programmer.bio()
@@ -75,3 +82,16 @@ Hi, my name is John Doe and I am a programmer.
 I am 30 years old and I am proficient in Python.
 
 """
+try:
+    me = person()
+
+    while (me.alive()):
+        me.happy()
+
+except NameError as x:
+    print(x)
+
+else:
+    print("A Person called 'Mydul' ")
+
+"""name 'person' is not defined"""
